@@ -47,21 +47,21 @@ Descriptions of and navigation links to the collection of repositories here.
 
 1. [TMT_analysis_examples](https://github.com/pwilmart/TMT_analysis_examples) - Descriptions of various TMT analyses
 
-1. [Yeast_CarbonSources](https://github.com/pwilmart/Yeast_CarbonSources) - Yeast TMT data
+1. [Yeast_CarbonSources](https://github.com/pwilmart/Yeast_CarbonSources) - TMT data from yeast grown with different sugars
 
 1. [Yeast_triple_KO_TMT](https://github.com/pwilmart/Yeast_triple_KO_TMT) - Yeast triple knockout data
 
-1. [PXD001077_P-furiosus](https://github.com/pwilmart/PXD001077_P-furiosus) - ???
+1. [PXD001077_P-furiosus](https://github.com/pwilmart/PXD001077_P-furiosus) - Not yet completed
 
-1. [Metaplastic-BC_PXD014414](https://github.com/pwilmart/Metaplastic-BC_PXD014414) - ???
+1. [Metaplastic-BC_PXD014414](https://github.com/pwilmart/Metaplastic-BC_PXD014414) - Reanalysis of a 3-plex, 27-sample cancer study demonstrating IRS
 
-1. [BCP-ALL_QE-TMT_Nat-Comm-2019](https://github.com/pwilmart/BCP-ALL_QE-TMT_Nat-Comm-2019) - ???
+1. [BCP-ALL_QE-TMT_Nat-Comm-2019](https://github.com/pwilmart/BCP-ALL_QE-TMT_Nat-Comm-2019) - A 3-plex, 27-sample MS2-based TMT study of cancer data
 
 #### MS2 Reporter Ions
 
 1. [SPS-MS3_vs_MS2_TMT](https://github.com/pwilmart/SPS-MS3_vs_MS2_TMT) - Comparison of MS2 TMT and SPS MS3 TMT for same data
 
-1. [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - ???
+1. [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - A comparison of MS2 and SPS MS3 data for an E. coli background
 
 #### Spectral Counting
 
@@ -75,7 +75,7 @@ Descriptions of and navigation links to the collection of repositories here.
 
 ## Meetings
 
-1. [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeitng content into repositories
+1. [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeting content into repositories
 
 1. [ABRF_2020](https://github.com/pwilmart/ABRF_2020) - How to use GitHub to support scientific research
 
