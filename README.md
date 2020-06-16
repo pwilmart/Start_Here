@@ -59,6 +59,8 @@
 
 #### MS2 Reporter Ions
 
+* [PXD013277_E-coli_spike-ins_MS2-TMT](https://github.com/pwilmart/PXD013277_E-coli_spike-ins_MS2-TMT) - E. coli proteome spiked into a human background
+
 * [SPS-MS3_vs_MS2_TMT](https://github.com/pwilmart/SPS-MS3_vs_MS2_TMT) - Comparison of MS2 TMT and SPS MS3 TMT for same data
 
 * [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - A comparison of MS2 and SPS MS3 data for an E. coli background
