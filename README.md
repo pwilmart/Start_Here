@@ -65,6 +65,8 @@
 
 * [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - A comparison of MS2 and SPS MS3 data for an E. coli background
 
+* [PXD004163_Notebooks](https://github.com/pwilmart/PXD004163_Notebooks/tree/master) - More MS2 data to illustrate using notebooks
+
 #### Spectral Counting
 
 * [Smith_SpC_2018](https://github.com/pwilmart/Smith_SpC_2018) - Quantitative analysis of large SpC dataset
