@@ -3,12 +3,13 @@
 ## Table of Contents:
 
 * [Software](#Software)
-* [Real Time Search](#RTS)
-* [Internal Reference Scaling](#IRS)
-* [PAW TMT Analyses](#PAW)
-* [Other TMT Analyses](#Other)
-* [MS2 Reporter Ions](#MS2)
-* [Spectral Counting](#SpC)
+* Analyses
+  * [Real Time Search](#RTS)
+  * [Internal Reference Scaling](#IRS)
+  * [PAW TMT Analyses](#PAW)
+  * [Other TMT Analyses](#Other)
+  * [MS2 Reporter Ions](#MS2)
+  * [Spectral Counting](#SpC)
 * [Meeting Presentations](#Meetings)
 
 ### Navigation links (and brief descriptions) to my repositories.
@@ -122,7 +123,7 @@
 
 ---
 
-## <a id="Meeting Presentations"></a>Meetings
+## <a id="Meetings"></a>Meeting Presentations
 
 * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeting content into repositories
 
