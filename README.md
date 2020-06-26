@@ -17,6 +17,15 @@
 * [Start_Here](https://github.com/pwilmart/Start_Here) - This repository
 
 * [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository
+  * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets
+  * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification
+  * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools
+  * [pipeline performance](https://pwilmart.github.io/blog/2019/09/08/Keeping-pipeline-flowing) - Some recommendations about how to make pipelines more effective
+  * [Humpty Dumpty](https://pwilmart.github.io/blog/2019/09/21/shotgun-quantification) - Bog about how to do quantification from shotgun proteomics
+  * [Orthologs and annotations](https://pwilmart.github.io/blog/2019/10/14/orthologs-annotations) - Blog about using ortholog mapping to annotate proteomics results
+  * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Trying to understand TMT ratio distortions
+  * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect results
+  * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
 
 ---
 
@@ -106,12 +115,24 @@
 #### <a id="MS2"></a>MS2 Reporter Ions
 
 * [PXD013277_E-coli_spike-ins_MS2-TMT](https://github.com/pwilmart/PXD013277_E-coli_spike-ins_MS2-TMT) - E. coli proteome spiked into a human background
+  * [PXD013277_comparisons_human](https://pwilmart.github.io/PXD013277_E-coli_spike-ins_MS2-TMT/PXD013277_comparisons_human.html) - Notebook looking at unchanged human background
+  * [PXD013277_comparisons_no-norm](https://pwilmart.github.io/PXD013277_E-coli_spike-ins_MS2-TMT/PXD013277_comparisons_no-norm.html) - Notebook with manually matched human protein levels between spike-in channels
+  * [PXD013277_comparisons](https://pwilmart.github.io/PXD013277_E-coli_spike-ins_MS2-TMT/PXD013277_comparisons.html) - Notebook with generic edgeR workup (TMM normalization and exact testing)  
 
-* [SPS-MS3_vs_MS2_TMT](https://github.com/pwilmart/SPS-MS3_vs_MS2_TMT) - Comparison of MS2 TMT and SPS MS3 TMT for same data
+* [SPS-MS3_vs_MS2_TMT](https://github.com/pwilmart/SPS-MS3_vs_MS2_TMT) - Comparison of MS2 TMT and SPS MS3 TMT for same `MORG-75` data
+  * [MORG-75_combined](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_combined.html) - Unique use of IRS to combine TMT data between two Orbitrap platforms that was acquired with different methods
+  * [MORG-75_Fusion](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_Fusion.html) - Analysis of the SPS MS3 data
+  * [MORG-75_QE](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_QE.html) - Analysis of the Q Exactive MS2 TMT data
 
-* [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - A comparison of MS2 and SPS MS3 data for an E. coli background
+* [JPR-201712_MS2-MS3](https://github.com/pwilmart/JPR-201712_MS2-MS3) - A comparison of MS2 and SPS MS3 data for an E. coli background (analysis of the unchanged background)
+  * [First analysis](https://pwilmart.github.io/TMT_analysis_examples/MS2MS3_peptides_proteins.html) - Original notebook of how similar the E. coli background is at PSM, peptide, and protein levels
+  * [Second analysis](https://pwilmart.github.io/TMT_analysis_examples/JPR-2017_E-coli_MS2-MS3.html) - Newer notebook with a direct comparison of MS2 and SPS-MS3 data
+  * [JPR-2017_serum](https://pwilmart.github.io/TMT_analysis_examples/JPR-2017_serum.html) - Notebook looking at depleted serum samples
 
 * [PXD004163_Notebooks](https://github.com/pwilmart/PXD004163_Notebooks/tree/master) - More MS2 data to illustrate using notebooks
+  * [PXD004163_comparisons_3-10](https://pwilmart.github.io/PXD004163_Notebooks/PXD004163_comparisons_3-10.html) - Re-analysis with Comet/PAW for the IPG 3-10 range data (72-fractions)
+  * [PXD004163_comparisons_3.7-4.9](https://pwilmart.github.io/PXD004163_Notebooks/PXD004163_comparisons_3.7-4.9.html) - Re-analysis with Comet/PAW for the IPG 3.7-4.9 range data (72-fractions)
+  * [PXD004163_comparisons_Mascot](https://pwilmart.github.io/PXD004163_Notebooks/PXD004163_comparisons_Mascot.html) - Notebook loading in the Mascot Quantitative Summary data file
 
 #### <a id="SpC"></a>Spectral Counting
 
