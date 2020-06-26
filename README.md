@@ -16,7 +16,7 @@
 
 * [Start_Here](https://github.com/pwilmart/Start_Here) - This repository
 
-* [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository
+* [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository (mostly blog entries)
   * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets
   * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification
   * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools
@@ -137,10 +137,15 @@
 #### <a id="SpC"></a>Spectral Counting
 
 * [Smith_SpC_2018](https://github.com/pwilmart/Smith_SpC_2018) - Quantitative analysis of large SpC dataset
+  * [Smith_2018_edgeR](https://pwilmart.github.io/TMT_analysis_examples/Smith_2018_edgeR.html) - Notebook with spectral counting data in a paired study design using edgeR
 
 * [Sea_lion_urine_SpC](https://github.com/pwilmart/Sea_lion_urine_SpC) - Analysis of sea lion urine samples
+  * [PXD009019_average_missing](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_average_missing.html) - Notebook to determine the low SpC cutoff value
+  * [PXD009019_QC_check](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_QC_check.html) - Notebook with some quality control steps and outlier checking
+  * [PXD009019_SpC_DE](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_SpC_DE.html) - Notebook with the SpS differential expression analysis
 
 * [ABRF_iPRG_2015_SpC](https://github.com/pwilmart/ABRF_iPRG_2015_SpC) - Analysis of ABRF iPRG data from 2015 study
+  * [ABRF_2015_edgeR](https://pwilmart.github.io/TMT_analysis_examples/ABRF_2015_edgeR.html) - Spectral counting data analyzed with edgeR
 
 ---
 
