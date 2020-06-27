@@ -4,8 +4,8 @@
 
 * [Software](#Software)
 * Analyses
-  * [Real Time Search](#RTS)
   * [Internal Reference Scaling](#IRS)
+  * [Real Time Search](#RTS)
   * [PAW TMT Analyses](#PAW)
   * [Other TMT Analyses](#Other)
   * [MS2 Reporter Ions](#MS2)
@@ -20,11 +20,11 @@
   * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets
   * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification
   * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools
-  * [pipeline performance](https://pwilmart.github.io/blog/2019/09/08/Keeping-pipeline-flowing) - Some recommendations about how to make pipelines more effective
-  * [Humpty Dumpty](https://pwilmart.github.io/blog/2019/09/21/shotgun-quantification) - Bog about how to do quantification from shotgun proteomics
+  * [pipeline performance](https://pwilmart.github.io/blog/2019/09/08/Keeping-pipeline-flowing) - Some ideas about how to make pipelines more effective
+  * [Humpty Dumpty](https://pwilmart.github.io/blog/2019/09/21/shotgun-quantification) - Bog about how to do quantification from shotgun proteomics data
   * [Orthologs and annotations](https://pwilmart.github.io/blog/2019/10/14/orthologs-annotations) - Blog about using ortholog mapping to annotate proteomics results
-  * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Trying to understand TMT ratio distortions
-  * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect results
+  * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Understanding TMT ratio distortions
+  * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect shotgun proteomics results
   * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
 
 ---
@@ -47,32 +47,28 @@
 
 ## Analyses
 
+#### <a id="IRS"></a>Internal Reference Scaling
+
+* [IRS_validation](https://github.com/pwilmart/IRS_validation) - Method overview and validation of Internal Reference Scaling normalization
+  * [IRS_validation](https://pwilmart.github.io/TMT_analysis_examples/IRS_validation.html) - Notebook with more background on the IRS method and experimental validation  
+  * [auto_finder_BIND-473](https://pwilmart.github.io/TMT_analysis_examples/auto_finder_BIND-473.html) - Notebook showing how to verify that reference channels are correctly assigned
+
+* [IRS_normalization](https://github.com/pwilmart/IRS_normalization) - Example of the IRS method using developing mouse lens data
+  * [understanding_IRS](https://pwilmart.github.io/IRS_normalization/understanding_IRS.html) - Notebook covering normalization details
+  * [statistical_testing](https://pwilmart.github.io/IRS_normalization/statistical_testing.html) - Notebook demonstrating edgeR testing
+  * [statistical_testing_ratios](https://pwilmart.github.io/IRS_normalization/statistical_testing_ratios.html) - Notebook where ratios to the reference channel are computed and tested using limma
+  * [statistical_testing_take2](https://pwilmart.github.io/IRS_normalization/statistical_testing_take2.html) - More statistical testing of P0 vs P3 time points
+
+* [Plubell_2017_PAW](https://github.com/pwilmart/Plubell_2017_PAW) - Reanalysis of original IRS [MCP paper's](https://www.mcponline.org/content/16/5/873) data
+
 #### <a id="RTS"></a>Real Time Search
 
-* [PXD017823_Real-Time-Search](https://github.com/pwilmart/PXD017823_Real-Time-Search) - Analysis of some real time search data
-  * [Schweppe_RTS_by-method](https://pwilmart.github.io/PXD017823_Real-Time-Search/Schweppe_RTS_by-method.html) - Compares the older SPS MS3 acquisition method to the new real time search (RTS) acquisition method
-  > Note: RTS acquisition used a protein close-out feature to limit redundant acquisition of peptides from abundant proteins
-
+* [PXD017823_Real-Time-Search](https://github.com/pwilmart/PXD017823_Real-Time-Search) - Analysis of some real time search SPS-MS3 TMT data from the Gygi Lab
+  * [Schweppe_RTS_by-method](https://pwilmart.github.io/PXD017823_Real-Time-Search/Schweppe_RTS_by-method.html) - Compares the older SPS MS3 acquisition method to the new real time search (RTS) acquisition method (Note: RTS acquisition used a protein close-out feature to limit acquisition of peptides from abundant proteins)
   * [PXD017823_RTS_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_RTS_comparisons_IRS.html) - Compares cell line expression with edgeR for the RTS data (not the IRS adjusted values)
   * [PXD017823_Regular_comparisons] (https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons.html) - Compares cell line expression with edgeR for the regular SPS MS3 data (not the IRS adjusted values)
   * [PXD017823_RTS_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_RTS_comparisons_IRS.html) - Compares cell line expression with edgeR for the RTS data after IRS
   * [PXD017823_Regular_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons_IRS.html) - Compares cell line expression with edgeR for the regular SPS MS3 data after IRS
-
-
-#### <a id="IRS"></a>Internal Reference Scaling
-
-* [IRS_validation](https://github.com/pwilmart/IRS_validation) - Validation and background for the Internal Reference Scaling method
-  * [IRS_validation](https://pwilmart.github.io/TMT_analysis_examples/IRS_validation.html) - Notebook with more background on IRS and true IRS validation  
-  * [auto_finder_BIND-473](https://pwilmart.github.io/TMT_analysis_examples/auto_finder_BIND-473.html) - Notebook showing how to verify that reference channels are correctly assigned
-
-* [IRS_normalization](https://github.com/pwilmart/IRS_normalization) - Example of the IRS method
-  * [understanding_IRS]() - Notebook covering normalization details
-  * [statistical_testing]() - Notebook demonstrating edgeR testing
-  * [statistical_testing_ratios]() - Notebook where ratios to the reference channel are computed and tested using limma
-  * [statistical_testing_take2]() - More statistical testing of P0 vs P3 time points
-
-
-* [Plubell_2017_PAW](https://github.com/pwilmart/Plubell_2017_PAW) - Reanalysis of original IRS paper's data
 
 #### <a id="PAW"></a>PAW TMT analyses
 
@@ -80,32 +76,32 @@
   * [Comet/PAW](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW.html) - Single-plex TMT analysis using my Comet/PAW pipeline
   * [Comet/PAW edgeR vs t-test](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW_t-test.html) - Comparison of edgeR to t-test statistical testing
   * [Comet/PAW edgeR vs limma](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW_limma.html) - Comparison of edgeR to limma statistical modeling
-  * [Comet/PAW limma-voom]() - Comparison of edgeR to limma-voom (fancier normalization and trended variance)
-  * [MaxQuant analysis](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_MQ.html) - KUR1502 project analyzed with MaxQuant
+  * [Comet/PAW limma-voom]() - Comparison of edgeR to limma-voom (TMM normalization and trended variance)
+  * [MaxQuant analysis](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_MQ.html) - KUR1502 project analyzed with MaxQuant and edgeR
 
 * [Multiple_TMT_MQ](https://github.com/pwilmart/Multiple_TMT_MQ) - Example of IRS method using MaxQuant analysis of the developing mouse lens data
-  * [Multiple-TMT with MQ](https://pwilmart.github.io/TMT_analysis_examples/multiple_TMT_MQ.html) - three TMT plexes combined with IRS from MaxQuant results
+  * [Multiple-TMT with MQ](https://pwilmart.github.io/TMT_analysis_examples/multiple_TMT_MQ.html) - Three TMT plexes combined with IRS using MaxQuant results
 
-* [Dilution_series](https://github.com/pwilmart/Dilution_series) - Comparison of PSM, peptide, and protein level data for a dilution series of TMT-labeled mouse membrane proteome
-  * [Dilution series](https://pwilmart.github.io/TMT_analysis_examples/MAN1353_peptides_proteins.html) - Dilution series of mouse brain TMT-labeled digest
+* [Dilution_series](https://github.com/pwilmart/Dilution_series) - Comparison of PSM, peptide, and protein level data for a dilution series of TMT-labeled mouse brain membrane proteins
+  * [Dilution series notebook](https://pwilmart.github.io/TMT_analysis_examples/MAN1353_peptides_proteins.html) - Dilution series of mouse brain TMT-labeled digest
 
 #### <a id="Other"></a>Other TMT analyses
 
 * [TMT_analysis_examples](https://github.com/pwilmart/TMT_analysis_examples) - Descriptions of various TMT analyses
-  * Less complete repository "switchyard"
+  * Another repository "switchyard"
 
 * [Yeast_CarbonSources](https://github.com/pwilmart/Yeast_CarbonSources) - Gygi Lab TMT data from yeast grown with different sugars
   * [Comet/PAW pipeline](https://pwilmart.github.io/TMT_analysis_examples/CarbonSources_part-1.html) - Re-analysis of data using Comet/PAW pipeline
   * [MaxQuant](https://pwilmart.github.io/TMT_analysis_examples/CarbonSources_MQ.html) - Re-analysis of same data with MaxQuant
 
 * [Yeast_triple_KO_TMT](https://github.com/pwilmart/Yeast_triple_KO_TMT) - Gygi Lab yeast triple knockout (TKO) data
-  * [Yeast TKO](https://pwilmart.github.io/TMT_analysis_examples/Triple_KO.html) - Comparison of platforms and methods for TMT interference
+  * [Yeast TKO](https://pwilmart.github.io/TMT_analysis_examples/Triple_KO.html) - Comparison of platforms and methods for understanding TMT interference
 
 
-* [PXD001077_P-furiosus](https://github.com/pwilmart/PXD001077_P-furiosus) - Not yet completed
+* [PXD001077_P-furiosus](https://github.com/pwilmart/PXD001077_P-furiosus) - Work in progress...
 
 * [Metaplastic-BC_PXD014414](https://github.com/pwilmart/Metaplastic-BC_PXD014414) - Reanalysis of a 3-plex, 27-sample cancer study demonstrating IRS
-  * [PXD014414_comparisons_major](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major.html) - Notebook for comparisons of normal to triple negative to metaplastic samples
+  * [PXD014414_comparisons_major](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major.html) - Notebook for comparisons of normal, triple negative, and metaplastic samples
   * [PXD014414_comparisons_subtypes](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_subtypes.html) - Notebook for comparisons of metaplastic subtypes
 
 * [BCP-ALL_QE-TMT_Nat-Comm-2019](https://github.com/pwilmart/BCP-ALL_QE-TMT_Nat-Comm-2019) - A 3-plex, 27-sample MS2-based TMT study of cancer data
@@ -120,7 +116,7 @@
   * [PXD013277_comparisons](https://pwilmart.github.io/PXD013277_E-coli_spike-ins_MS2-TMT/PXD013277_comparisons.html) - Notebook with generic edgeR workup (TMM normalization and exact testing)  
 
 * [SPS-MS3_vs_MS2_TMT](https://github.com/pwilmart/SPS-MS3_vs_MS2_TMT) - Comparison of MS2 TMT and SPS MS3 TMT for same `MORG-75` data
-  * [MORG-75_combined](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_combined.html) - Unique use of IRS to combine TMT data between two Orbitrap platforms that was acquired with different methods
+  * [MORG-75_combined](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_combined.html) - Unique use of IRS to combine TMT data between two Orbitrap platforms acquired with different methods
   * [MORG-75_Fusion](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_Fusion.html) - Analysis of the SPS MS3 data
   * [MORG-75_QE](https://pwilmart.github.io/TMT_analysis_examples/MORG-75_QE.html) - Analysis of the Q Exactive MS2 TMT data
 
@@ -153,9 +149,9 @@
 
 * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeting content into repositories
 
-* [ABRF_2020](https://github.com/pwilmart/ABRF_2020) - How to use GitHub to support scientific research
+* [ABRF_2020](https://github.com/pwilmart/ABRF_2020) - How to use GitHub to support scientific research and education
 
-* [ASMS-2013_search-engine-comparison](https://github.com/pwilmart/ASMS-2013_search-engine-comparison) - How to compare search engines
+* [ASMS-2013_search-engine-comparison](https://github.com/pwilmart/ASMS-2013_search-engine-comparison) - How to compare database search engines
 
 * [ASMS_2018](https://github.com/pwilmart/ASMS_2018) - The Internal Reference Scaling (IRS) method
 
