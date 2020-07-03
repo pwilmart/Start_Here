@@ -11,7 +11,7 @@
   * [MS2 Reporter Ions](#MS2)
   * [Spectral Counting](#SpC)
 * [Meeting Presentations](#Meetings)
-* [Other Repositories](#Other)
+* [Other Repositories](#Other_repos)
 
 ### Navigation links (and brief descriptions) to my repositories.
 
@@ -165,7 +165,7 @@
 
 ---
 
-## <a id="Other"></a>Other Repositories
+## <a id="Other_repos"></a>Other Repositories
 
 * [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorial, etc. from the OHSU Proteomics core
 
