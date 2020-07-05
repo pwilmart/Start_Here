@@ -27,6 +27,7 @@
   * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Understanding TMT ratio distortions
   * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect shotgun proteomics results
   * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
+  * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open_search) - Some caveats to Open search data exploration
 
 ---
 
@@ -167,7 +168,7 @@
 
 ## <a id="Other_repos"></a>Other Repositories
 
-* [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorial, etc. from the OHSU Proteomics core
+* [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorials, etc. from the OHSU Proteomics core
 
 ### Forked Repositories
 
