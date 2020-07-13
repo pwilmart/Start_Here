@@ -27,7 +27,8 @@
   * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Understanding TMT ratio distortions
   * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect shotgun proteomics results
   * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
-  * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open_search) - Some caveats to Open search data exploration
+  * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open-search) - Some caveats to Open search data exploration
+  * [Soup to nuts](https://pwilmart.github.io/blog/2020/07/12/Soup-to-nuts) - Overview of typical steps in peptide/protein ID pipelines
 
 ---
 
