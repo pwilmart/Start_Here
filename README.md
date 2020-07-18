@@ -3,7 +3,7 @@
 ## Table of Contents:
 
 * [Software](#Software)
-* Analyses
+* [Analyses](#Analyses)
   * [Internal Reference Scaling](#IRS)
   * [Real Time Search](#RTS)
   * [PAW TMT Analyses](#PAW)
@@ -48,7 +48,7 @@
 
 ---
 
-## Analyses
+## <a id="Analyses"></a>Analyses
 
 #### <a id="IRS"></a>Internal Reference Scaling
 
@@ -170,6 +170,8 @@
 ## <a id="Other_repos"></a>Other Repositories
 
 * [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorials, etc. from the OHSU Proteomics core
+
+* [TMT Publications](https://github.com/OHSU-Proteomics/OHSU_TMT_Publications) - List of TMT papers (mostly OHSU) that use methods developed here
 
 ### Forked Repositories
 
