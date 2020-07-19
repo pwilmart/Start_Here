@@ -70,7 +70,7 @@
 
   * [Schweppe_RTS_by-method](https://pwilmart.github.io/PXD017823_Real-Time-Search/Schweppe_RTS_by-method.html) - Compares the older SPS MS3 acquisition method to the new real time search (RTS) acquisition method (Note: RTS acquisition used a protein close-out feature to limit acquisition of peptides from abundant proteins)
   * [PXD017823_RTS_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_RTS_comparisons_IRS.html) - Compares cell line expression with edgeR for the RTS data (not the IRS adjusted values)
-  * [PXD017823_Regular_comparisons] (https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons.html) - Compares cell line expression with edgeR for the regular SPS MS3 data (not the IRS adjusted values)
+  * [PXD017823_Regular_comparisons](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons.html) - Compares cell line expression with edgeR for the regular SPS MS3 data (not the IRS adjusted values)
   * [PXD017823_RTS_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_RTS_comparisons_IRS.html) - Compares cell line expression with edgeR for the RTS data after IRS
   * [PXD017823_Regular_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons_IRS.html) - Compares cell line expression with edgeR for the regular SPS MS3 data after IRS
 
