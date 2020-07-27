@@ -80,7 +80,7 @@
   * [Comet/PAW](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW.html) - Single-plex TMT analysis using my Comet/PAW pipeline
   * [Comet/PAW edgeR vs t-test](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW_t-test.html) - Comparison of edgeR to t-test statistical testing
   * [Comet/PAW edgeR vs limma](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW_limma.html) - Comparison of edgeR to limma statistical modeling
-  * [Comet/PAW limma-voom]() - Comparison of edgeR to limma-voom (TMM normalization and trended variance)
+  * [Comet/PAW limma-voom](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW_limma-voom.html) - Comparison of edgeR to limma-voom (TMM normalization and trended variance)
   * [MaxQuant analysis](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_MQ.html) - KUR1502 project analyzed with MaxQuant and edgeR
 
 * [Multiple_TMT_MQ](https://github.com/pwilmart/Multiple_TMT_MQ) - Example of IRS method using MaxQuant analysis of the developing mouse lens data
