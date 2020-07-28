@@ -29,6 +29,8 @@
   * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
   * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open-search) - Some caveats to Open search data exploration
   * [Soup to nuts](https://pwilmart.github.io/blog/2020/07/12/Soup-to-nuts) - Overview of typical steps in peptide/protein ID pipelines
+  * [How to Excel](https://pwilmart.github.io/blog/2020/07/24/How-to-Excel) - Why I like Excel
+  * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses
 
 ---
 
@@ -107,6 +109,11 @@
 * [Metaplastic-BC_PXD014414](https://github.com/pwilmart/Metaplastic-BC_PXD014414) - Reanalysis of a 3-plex, 27-sample cancer study demonstrating IRS
   * [PXD014414_comparisons_major](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major.html) - Notebook for comparisons of normal, triple negative, and metaplastic samples
   * [PXD014414_comparisons_subtypes](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_subtypes.html) - Notebook for comparisons of metaplastic subtypes
+  * Some other statistical testing methods:
+    * [PXD014414_comparisons_major_edgeR-glm](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major_edgeR-glm.html) - Uses the glm modeling in edgeR
+    * [PXD014414_comparisons_major_TTEST](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major_TTEST.html) - Uses a 2-sample t-test
+    * [PXD014414_comparisons_major_limma](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major_limma.html) - Uses limma on log2 intensities
+    * [PXD014414_comparisons_major_voom-limma](https://pwilmart.github.io/Metaplastic-BC_PXD014414/PXD014414_comparisons_major_voom-limma.html) - Uses voom for variance estimate and limma
 
 * [BCP-ALL_QE-TMT_Nat-Comm-2019](https://github.com/pwilmart/BCP-ALL_QE-TMT_Nat-Comm-2019) - A 3-plex, 27-sample MS2-based TMT study of cancer data
   * [Nat-Comm-2019_TMT_QE_pools](https://pwilmart.github.io/TMT_analysis_examples/Nat-Comm-2019_TMT_QE_pools.html) - Uses single pooled channel for IRS method
