@@ -31,7 +31,8 @@
   * [Soup to nuts](https://pwilmart.github.io/blog/2020/07/12/Soup-to-nuts) - Overview of typical steps in peptide/protein ID pipelines
   * [How to Excel](https://pwilmart.github.io/blog/2020/07/24/How-to-Excel) - Why I like Excel
   * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses
-
+  * [Unique peptides and shotgun quantification](https://pwilmart.github.io/blog/2020/09/19/shotgun-quantification-part2) - How to use unique peptides in quantification
+  
 ---
 
 ## <a id="Software"></a>Software
