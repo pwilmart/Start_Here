@@ -10,7 +10,7 @@
   * [Other TMT Analyses](#Other)
   * [MS2 Reporter Ions](#MS2)
   * [Spectral Counting](#SpC)
-* [Meeting Presentations](#Meetings)
+* [Meeting Content and Other Presentations](#Meetings)
 * [Other Repositories](#Other_repos)
 
 ### Navigation links (and brief descriptions) to my repositories.
@@ -32,7 +32,8 @@
   * [How to Excel](https://pwilmart.github.io/blog/2020/07/24/How-to-Excel) - Why I like Excel
   * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses
   * [Unique peptides and shotgun quantification](https://pwilmart.github.io/blog/2020/09/19/shotgun-quantification-part2) - How to use unique peptides in quantification
-  
+  * [Go big or go home?](https://pwilmart.github.io/blog/2021/04/22/Parent-ion-tolerance) - Are we shooting ourselves in the foot with narrow tolerance database searching?
+
 ---
 
 ## <a id="Software"></a>Software
@@ -157,7 +158,7 @@
 
 ---
 
-## <a id="Meetings"></a>Meeting Presentations
+## <a id="Meetings"></a>Meeting Content and Other Presentations
 
 * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeting content into repositories
 
@@ -173,6 +174,10 @@
 
 * [RECOMB-CP_2012](https://github.com/pwilmart/RECOMB-CP_2012) - How to analyze shotgun proteomics data
 
+* [Score_distributions_FDR](https://github.com/pwilmart/score_distributions_FDR) - Examples of how search engine score distribution overlap and relative magnitudes affect false discovery rate thesholds
+
+* [Precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Public data from the [Monocle paper](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00563?casa_token=DzzesZv3fdAAAAAA:sDuBKpnjXwAlfU2A0G77wXOV0MDScWCLznDIxhWM5OZe7ONWKvtCEE2KP556moITh3uYA2QzEjor_w) re-analyzed with wide tolerance and the PAW pipeline
+
 ---
 
 ## <a id="Other_repos"></a>Other Repositories
@@ -180,6 +185,8 @@
 * [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorials, etc. from the OHSU Proteomics core
 
 * [TMT Publications](https://github.com/OHSU-Proteomics/OHSU_TMT_Publications) - List of TMT papers (mostly OHSU) that use methods developed here
+
+* [Cloud and desktop computing workflow timing](https://github.com/pwilmart/Cloud_desktop_benchmarks) - Some workflow timing data in support of [this paper](https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00920).
 
 ### Forked Repositories
 
