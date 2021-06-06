@@ -33,6 +33,8 @@
   * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses
   * [Unique peptides and shotgun quantification](https://pwilmart.github.io/blog/2020/09/19/shotgun-quantification-part2) - How to use unique peptides in quantification
   * [Go big or go home?](https://pwilmart.github.io/blog/2021/04/22/Parent-ion-tolerance) - Are we shooting ourselves in the foot with narrow tolerance database searching?
+  * [Is MAxQuant holding back proteomics?](https://pwilmart.github.io/blog/2021/05/23/MQ-are-you-okay) - Should the most heavily used proteomics data analysis tool perform better?
+  * [What makes the PAW pipeline different?](https://pwilmart.github.io/blog/2021/06/06/PAW-pipeline-backstory) - More of the history and design choices behind the PAW pipeline.
 
 ---
 
