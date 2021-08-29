@@ -180,6 +180,8 @@
 
 * [Precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Public data from the [Monocle paper](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00563?casa_token=DzzesZv3fdAAAAAA:sDuBKpnjXwAlfU2A0G77wXOV0MDScWCLznDIxhWM5OZe7ONWKvtCEE2KP556moITh3uYA2QzEjor_w) re-analyzed with wide tolerance and the PAW pipeline
 
+* [Installing R kernel in Jupyter notebooks](https://github.com/pwilmart/R-Jupyter-notebook_setup) - How to add an R kernel to Jupyter notebooks
+
 ---
 
 ## <a id="Other_repos"></a>Other Repositories
