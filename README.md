@@ -35,7 +35,7 @@
   * [Go big or go home?](https://pwilmart.github.io/blog/2021/04/22/Parent-ion-tolerance) - Are we shooting ourselves in the foot with narrow tolerance database searching?
   * [Is MaxQuant holding back proteomics?](https://pwilmart.github.io/blog/2021/05/23/MQ-are-you-okay) - Should the most heavily used proteomics data analysis tool perform better?
   * [What makes the PAW pipeline different?](https://pwilmart.github.io/blog/2021/06/06/PAW-pipeline-backstory) - More of the history and design choices behind the PAW pipeline.
-  * [TMT bad practices](https://pwilmart.github.io/blog/20211217-TMT-bad-practices) - Many established TMT data analysis methods are not really very good to use.
+  * [TMT bad practices](https://pwilmart.github.io/blog/2021/12/17/TMT-bad-practices) - Many established TMT data analysis methods are not really very good to use.
 
 ---
 
