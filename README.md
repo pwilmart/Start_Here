@@ -81,7 +81,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 
 ## <a id="Analyses"></a>Analyses
 
-#### <a id="IRS"></a>Internal Reference Scaling
+#### <a id="IRS"></a>IRS
 
 * [IRS_validation](https://github.com/pwilmart/IRS_validation) - Method overview and validation of Internal Reference Scaling normalization
   * [IRS_validation](https://pwilmart.github.io/TMT_analysis_examples/IRS_validation.html) - Notebook with more background on the IRS method and experimental validation  
