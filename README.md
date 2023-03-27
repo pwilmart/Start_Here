@@ -11,9 +11,9 @@
 * [Analyses](#Analyses)
   * [Internal Reference Scaling](#IRS)
   * [Real Time Search](#RTS)
-  * [PAW TMT Analyses](#PAW)
+  * [PAW TMT Analyses](#PAW_TMT)
   * [Other TMT Analyses](#Other)
-  * [MS2 Reporter Ions](#MS2)
+  * [MS2 Reporter Ions](#MS2_TMT)
   * [Spectral Counting](#SpC)
 * [Meetings](#Meetings)
 * [Other Repositories](#Other_repos)
@@ -95,7 +95,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 
 * [Plubell_2017_PAW](https://github.com/pwilmart/Plubell_2017_PAW) - Reanalysis of original IRS [MCP paper's](https://www.mcponline.org/content/16/5/873) data
 
-#### <a id="RTS"></a>Real Time Search
+#### <a id="RTS"></a>RTS
 
 * [PXD017823_Real-Time-Search](https://github.com/pwilmart/PXD017823_Real-Time-Search) - Analysis of some real time search SPS-MS3 TMT data from the Gygi Lab
 
@@ -105,7 +105,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
   * [PXD017823_RTS_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_RTS_comparisons_IRS.html) - Compares cell line expression with edgeR for the RTS data after IRS
   * [PXD017823_Regular_comparisons_IRS](https://pwilmart.github.io/PXD017823_Real-Time-Search/PXD017823_Regular_comparisons_IRS.html) - Compares cell line expression with edgeR for the regular SPS MS3 data after IRS
 
-#### <a id="PAW"></a>PAW TMT analyses
+#### <a id="PAW_TMT"></a>PAW_TMT
 
 * [MaxQuant_and_PAW](https://github.com/pwilmart/MaxQuant_and_PAW) - Comparison of PAW and MaxQuant with same TMT data (KUR1502 project)
   * [Comet/PAW](https://pwilmart.github.io/TMT_analysis_examples/KUR1502_PAW.html) - Single-plex TMT analysis using my Comet/PAW pipeline
@@ -120,7 +120,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 * [Dilution_series](https://github.com/pwilmart/Dilution_series) - Comparison of PSM, peptide, and protein level data for a dilution series of TMT-labeled mouse brain membrane proteins
   * [Dilution series notebook](https://pwilmart.github.io/TMT_analysis_examples/MAN1353_peptides_proteins.html) - Dilution series of mouse brain TMT-labeled digest
 
-#### <a id="Other"></a>Other TMT analyses
+#### <a id="Other"></a>Other
 
 * [TMT_analysis_examples](https://github.com/pwilmart/TMT_analysis_examples) - Descriptions of various TMT analyses
   * Another repository "switchyard"
@@ -148,7 +148,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
   * [Nat-Comm-2019_TMT_QE_pools](https://pwilmart.github.io/TMT_analysis_examples/Nat-Comm-2019_TMT_QE_pools.html) - Uses single pooled channel for IRS method
   * [Nat-Comm-2019_TMT_QE_averages](https://pwilmart.github.io/TMT_analysis_examples/Nat-Comm-2019_TMT_QE_averages.html) - Slightly better IRS results using plex averages
 
-#### <a id="MS2"></a>MS2 Reporter Ions
+#### <a id="MS2_TMT"></a>MS2_TMT
 
 * [PXD013277_E-coli_spike-ins_MS2-TMT](https://github.com/pwilmart/PXD013277_E-coli_spike-ins_MS2-TMT) - E. coli proteome spiked into a human background
   * [PXD013277_comparisons_human](https://pwilmart.github.io/PXD013277_E-coli_spike-ins_MS2-TMT/PXD013277_comparisons_human.html) - Notebook looking at unchanged human background
@@ -170,7 +170,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
   * [PXD004163_comparisons_3.7-4.9](https://pwilmart.github.io/PXD004163_Notebooks/PXD004163_comparisons_3.7-4.9.html) - Re-analysis with Comet/PAW for the IPG 3.7-4.9 range data (72-fractions)
   * [PXD004163_comparisons_Mascot](https://pwilmart.github.io/PXD004163_Notebooks/PXD004163_comparisons_Mascot.html) - Notebook loading in the Mascot Quantitative Summary data file
 
-#### <a id="SpC"></a>Spectral Counting
+#### <a id="SpC"></a>SpC
 
 * [Smith_SpC_2018](https://github.com/pwilmart/Smith_SpC_2018) - Quantitative analysis of large SpC dataset
   * [Smith_2018_edgeR](https://pwilmart.github.io/TMT_analysis_examples/Smith_2018_edgeR.html) - Notebook with spectral counting data in a paired study design using edgeR
