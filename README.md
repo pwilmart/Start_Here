@@ -1,7 +1,12 @@
 # Start_Here
 
+## Navigation links (and brief descriptions) to my repositories.
+
+* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository
+
 ## Table of Contents:
 
+* [Blogs](#Blogs)
 * [Software](#Software)
 * [Analyses](#Analyses)
   * [Internal Reference Scaling](#IRS)
@@ -13,9 +18,11 @@
 * [Meeting Content and Other Presentations](#Meetings)
 * [Other Repositories](#Other_repos)
 
-### Navigation links (and brief descriptions) to my repositories.
 
-* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository
+
+## <a id="Blogs"></a>Blogs
+
+#### Website Blogs
 
 * [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository (mostly blog entries)
   * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets
@@ -36,6 +43,23 @@
   * [Is MaxQuant holding back proteomics?](https://pwilmart.github.io/blog/2021/05/23/MQ-are-you-okay) - Should the most heavily used proteomics data analysis tool perform better?
   * [What makes the PAW pipeline different?](https://pwilmart.github.io/blog/2021/06/06/PAW-pipeline-backstory) - More of the history and design choices behind the PAW pipeline.
   * [TMT bad practices](https://pwilmart.github.io/blog/2021/12/17/TMT-bad-practices) - Many established TMT data analysis methods are not really very good to use.
+
+#### README Blogs
+
+GitHub markdown (and the auto rendering of repository README.md files as nice webpages) creates a fast way to do technical blogging. Supporting files and images are easier to add to a repository than to a formal website. Repositories can also be great for sharing presentations (meeting content or training resources).
+
+  * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - Tutorial on turning talks and posters into GitHub content.
+  * [Installing R kernel in Jupyter notebooks](https://github.com/pwilmart/R-Jupyter-notebook_setup) - How to add an R kernel to Jupyter notebooks
+  * [Gene-set-enrichment_STRING-DB](https://github.com/OHSU-Proteomics/Gene-set-enrichment_STRING-DB) - Short tutorial on doing gene set enrichment with [STRING-DB](https://www.string-db.org).
+  * [PRIDE_submission_tutorial](https://github.com/OHSU-Proteomics/PRIDE_submission_tutorial) - A guide to submitting PAW pipeline results to PRIDE.
+  * [precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Is monoisotopic peak picking for MS2 scans a problem that needs solving?
+  * [score_distributions_FDR](https://github.com/pwilmart/score_distributions_FDR) - Get your annoying tail out of my good scores!
+  * [IRS_validation](https://github.com/pwilmart/IRS_validation) - Notebooks demonstrating how Internal Reference Scaling (IRS) in multiplex TMT experiments works.
+  * [human_tear_references](https://github.com/pwilmart/human_tear_references) - A summary of quantitative tear proteomics references up to April 2022. Stimulated tearing confounds (probably) all these studies.
+  * [TMT_PAW_pipeline](https://github.com/pwilmart/TMT_PAW_pipeline) - Details about how TMT labeling is handled in the PAW pipeline.
+  * [TMT_channel_cross_talk](https://github.com/pwilmart/TMT_channel_cross_talk) - A deeper dive on adjacent channel cross talk for TMTpro 18-plex. How large is the effect and some pros and cons of correction.
+  * [Human-plasma_DIA-vs-TMT](https://github.com/pwilmart/Human-plasma_DIA-vs-TMT) - An apples-to-aardvarks comparison of human plasma proteomes from DIA versus TMT.
+  * [PXD011691_reanalysis](https://github.com/pwilmart/PXD011691_reanalysis) - Reanalysis of data from [PXD011691](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD011691) - another DIA versus TMT experiment.
 
 ---
 
@@ -161,9 +185,7 @@
 
 ---
 
-## <a id="Meetings"></a>Meeting Content and Other Presentations
-
-* [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - How to turn meeting content into repositories
+## <a id="Meetings"></a>Meeting Content
 
 * [ABRF_2020](https://github.com/pwilmart/ABRF_2020) - How to use GitHub to support scientific research and education
 
@@ -176,12 +198,6 @@
 * [Cascadia_2018](https://github.com/pwilmart/Cascadia_2018) - A tour of Jupyter notebooks
 
 * [RECOMB-CP_2012](https://github.com/pwilmart/RECOMB-CP_2012) - How to analyze shotgun proteomics data
-
-* [Score_distributions_FDR](https://github.com/pwilmart/score_distributions_FDR) - Examples of how search engine score distribution overlap and relative magnitudes affect false discovery rate thesholds
-
-* [Precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Public data from the [Monocle paper](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00563?casa_token=DzzesZv3fdAAAAAA:sDuBKpnjXwAlfU2A0G77wXOV0MDScWCLznDIxhWM5OZe7ONWKvtCEE2KP556moITh3uYA2QzEjor_w) re-analyzed with wide tolerance and the PAW pipeline
-
-* [Installing R kernel in Jupyter notebooks](https://github.com/pwilmart/R-Jupyter-notebook_setup) - How to add an R kernel to Jupyter notebooks
 
 ---
 
