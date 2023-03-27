@@ -185,7 +185,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 
 ---
 
-## <a id="Meetings"></a>Meeting Content
+## <a id="Meetings"></a>Meetings
 
 * [ABRF_2020](https://github.com/pwilmart/ABRF_2020) - How to use GitHub to support scientific research and education
 
