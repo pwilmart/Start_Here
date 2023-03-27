@@ -16,7 +16,7 @@
   * [MS2 Reporter Ions](#MS2_TMT)
   * [Spectral Counting](#SpC)
 * [Meetings](#Meetings)
-* [Other Repositories](#Other_repos)
+* [Other Repositories](#Other_Repositories)
 
 
 
@@ -201,7 +201,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 
 ---
 
-## <a id="Other_repos"></a>Other Repositories
+## <a id="Other_Repositories"></a>Other_Repositories
 
 * [OHSU-Proteomics](https://github.com/OHSU-Proteomics/Start_Here) - Tutorials, etc. from the OHSU Proteomics core
 
