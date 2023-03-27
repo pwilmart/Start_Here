@@ -15,7 +15,7 @@
   * [Other TMT Analyses](#Other)
   * [MS2 Reporter Ions](#MS2)
   * [Spectral Counting](#SpC)
-* [Meeting Content and Other Presentations](#Meetings)
+* [Meetings](#Meetings)
 * [Other Repositories](#Other_repos)
 
 
