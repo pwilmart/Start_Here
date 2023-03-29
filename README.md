@@ -24,7 +24,7 @@
 
 #### Website Blogs
 
-* [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository (mostly blog entries)
+* [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository (mostly blog entries).
   * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets. (_Dec. 2018_)
   * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification. (_March 2019_)
   * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools. (_March 2019_)
@@ -48,18 +48,18 @@
 
 GitHub markdown (and the auto rendering of repository README.md files as nice webpages) creates a fast way to do technical blogging. Supporting files and images are easier to add to a repository than to a formal website. Repositories can also be great for sharing presentations (meeting content or training resources).
 
-  * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - Tutorial on turning talks and posters into GitHub content.
-  * [Installing R kernel in Jupyter notebooks](https://github.com/pwilmart/R-Jupyter-notebook_setup) - How to add an R kernel to Jupyter notebooks
-  * [Gene-set-enrichment_STRING-DB](https://github.com/OHSU-Proteomics/Gene-set-enrichment_STRING-DB) - Short tutorial on doing gene set enrichment with [STRING-DB](https://www.string-db.org).
-  * [PRIDE_submission_tutorial](https://github.com/OHSU-Proteomics/PRIDE_submission_tutorial) - A guide to submitting PAW pipeline results to PRIDE.
-  * [precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Is monoisotopic peak picking for MS2 scans a problem that needs solving?
-  * [score_distributions_FDR](https://github.com/pwilmart/score_distributions_FDR) - Get your annoying tail out of my good scores!
-  * [IRS_validation](https://github.com/pwilmart/IRS_validation) - Notebooks demonstrating how Internal Reference Scaling (IRS) in multiplex TMT experiments works.
-  * [human_tear_references](https://github.com/pwilmart/human_tear_references) - A summary of quantitative tear proteomics references up to April 2022. Stimulated tearing confounds (probably) all these studies.
-  * [TMT_PAW_pipeline](https://github.com/pwilmart/TMT_PAW_pipeline) - Details about how TMT labeling is handled in the PAW pipeline.
-  * [TMT_channel_cross_talk](https://github.com/pwilmart/TMT_channel_cross_talk) - A deeper dive on adjacent channel cross talk for TMTpro 18-plex. How large is the effect and some pros and cons of correction.
-  * [Human-plasma_DIA-vs-TMT](https://github.com/pwilmart/Human-plasma_DIA-vs-TMT) - An apples-to-aardvarks comparison of human plasma proteomes from DIA versus TMT.
-  * [PXD011691_reanalysis](https://github.com/pwilmart/PXD011691_reanalysis) - Reanalysis of data from [PXD011691](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD011691) - another DIA versus TMT experiment.
+  * [talk_to_repo_example](https://github.com/pwilmart/talk_to_repo_example) - Tutorial on turning talks and posters into GitHub content. (_Nov. 2019_)
+  * [Installing R kernel in Jupyter notebooks](https://github.com/pwilmart/R-Jupyter-notebook_setup) - How to add an R kernel to Jupyter notebooks. (_Aug. 2021_)
+  * [Gene-set-enrichment_STRING-DB](https://github.com/OHSU-Proteomics/Gene-set-enrichment_STRING-DB) - Short tutorial on doing gene set enrichment with [STRING-DB](https://www.string-db.org). (_Sep. 2021_)
+  * [PRIDE_submission_tutorial](https://github.com/OHSU-Proteomics/PRIDE_submission_tutorial) - A guide to submitting PAW pipeline results to PRIDE. (_May 2020_)
+  * [precursor_mass_corrections](https://github.com/pwilmart/precursor_mass_corrections) - Is monoisotopic peak picking for MS2 scans a problem that needs solving? (_April 2021_)
+  * [score_distributions_FDR](https://github.com/pwilmart/score_distributions_FDR) - Get your annoying tail out of my good scores! (_April 2021_)
+  * [IRS_validation](https://github.com/pwilmart/IRS_validation) - Notebooks demonstrating how Internal Reference Scaling (IRS) in multiplex TMT experiments works. (_Jan. 2019_)
+  * [human_tear_references](https://github.com/pwilmart/human_tear_references) - A summary of quantitative tear proteomics references up to April 2022. Stimulated tearing confounds (probably) all these studies. (_April 2022_)
+  * [TMT_PAW_pipeline](https://github.com/pwilmart/TMT_PAW_pipeline) - Details about how TMT labeling is handled in the PAW pipeline. (_Oct. 2022_)
+  * [TMT_channel_cross_talk](https://github.com/pwilmart/TMT_channel_cross_talk) - A deeper dive on adjacent channel cross talk for TMTpro 18-plex. How large is the effect and some pros and cons of correction. (_Dec. 2022_)
+  * [Human-plasma_DIA-vs-TMT](https://github.com/pwilmart/Human-plasma_DIA-vs-TMT) - An apples-to-aardvarks comparison of human plasma proteomes from DIA versus TMT. (_Feb. 2023_)
+  * [PXD011691_reanalysis](https://github.com/pwilmart/PXD011691_reanalysis) - Reanalysis of data from [PXD011691](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD011691) - another DIA versus TMT experiment. (_Feb. 2023_)
 
 ---
 
