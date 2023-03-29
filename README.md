@@ -25,24 +25,24 @@
 #### Website Blogs
 
 * [pwilmart.github.io](https://github.com/pwilmart/pwilmart.github.io) - Account website repository (mostly blog entries)
-  * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets
-  * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification
-  * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools
-  * [pipeline performance](https://pwilmart.github.io/blog/2019/09/08/Keeping-pipeline-flowing) - Some ideas about how to make pipelines more effective
-  * [Humpty Dumpty](https://pwilmart.github.io/blog/2019/09/21/shotgun-quantification) - Bog about how to do quantification from shotgun proteomics data
-  * [Orthologs and annotations](https://pwilmart.github.io/blog/2019/10/14/orthologs-annotations) - Blog about using ortholog mapping to annotate proteomics results
-  * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Understanding TMT ratio distortions
-  * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect shotgun proteomics results
-  * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs
-  * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open-search) - Some caveats to Open search data exploration
-  * [Soup to nuts](https://pwilmart.github.io/blog/2020/07/12/Soup-to-nuts) - Overview of typical steps in peptide/protein ID pipelines
-  * [How to Excel](https://pwilmart.github.io/blog/2020/07/24/How-to-Excel) - Why I like Excel
-  * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses
-  * [Unique peptides and shotgun quantification](https://pwilmart.github.io/blog/2020/09/19/shotgun-quantification-part2) - How to use unique peptides in quantification
-  * [Go big or go home?](https://pwilmart.github.io/blog/2021/04/22/Parent-ion-tolerance) - Are we shooting ourselves in the foot with narrow tolerance database searching?
-  * [Is MaxQuant holding back proteomics?](https://pwilmart.github.io/blog/2021/05/23/MQ-are-you-okay) - Should the most heavily used proteomics data analysis tool perform better?
-  * [What makes the PAW pipeline different?](https://pwilmart.github.io/blog/2021/06/06/PAW-pipeline-backstory) - More of the history and design choices behind the PAW pipeline.
-  * [TMT bad practices](https://pwilmart.github.io/blog/2021/12/17/TMT-bad-practices) - Many established TMT data analysis methods are not really very good to use.
+  * [TMT-zero-replacement](https://pwilmart.github.io/blog/2018/12/12/TMT-zero-replacement) - Blog about replacing missing data in TMT datasets (Dec. 2018)
+  * [MaxQuant performance](https://pwilmart.github.io/blog/2019/03/10/MQ-performance) - Blog about how well MaxQuant performs for PSM identification (March 2019)
+  * [Quant tool survey](https://pwilmart.github.io/blog/2019/03/12/Quantitative-survey) - Some thoughts about quantitative proteomics tools (March 2019)
+  * [pipeline performance](https://pwilmart.github.io/blog/2019/09/08/Keeping-pipeline-flowing) - Some ideas about how to make pipelines more effective (Sep. 2019)
+  * [Humpty Dumpty](https://pwilmart.github.io/blog/2019/09/21/shotgun-quantification) - Bog about how to do quantification from shotgun proteomics data (Sep. 2019)
+  * [Orthologs and annotations](https://pwilmart.github.io/blog/2019/10/14/orthologs-annotations) - Blog about using ortholog mapping to annotate proteomics results (Oct. 2019)
+  * [TMT ratio distortion](https://pwilmart.github.io/blog/2020/01/05/TMT-ratio-distortions) - Understanding TMT ratio distortions (Jan. 2020)
+  * [FASTA files and protein inference](https://pwilmart.github.io/blog/2020/01/06/Proteomics-as-house-building) - Blog about how FASTA files and protein inference affect shotgun proteomics results (Jan. 2020)
+  * [Proteomics meta data](https://pwilmart.github.io/blog/2020/06/07/Sample-keys) - Thoughts about how to describe proteomic experimental designs (Jan. 2020)
+  * [Open Search](https://pwilmart.github.io/blog/2020/07/03/Open-search) - Some caveats to Open search data exploration (July 2020)
+  * [Soup to nuts](https://pwilmart.github.io/blog/2020/07/12/Soup-to-nuts) - Overview of typical steps in peptide/protein ID pipelines (July 2020)
+  * [How to Excel](https://pwilmart.github.io/blog/2020/07/24/How-to-Excel) - Why I use (and like) Excel (July 2020)
+  * [Houston, we have a discrepancy](https://pwilmart.github.io/blog/2020/07/28/Houston-we-have-a-discrepancy) - Thoughts on the discrepancy between MSstatsTMT and my analyses (July 2020)
+  * [Unique peptides and shotgun quantification](https://pwilmart.github.io/blog/2020/09/19/shotgun-quantification-part2) - How to use unique peptides in quantification (Sep. 2020)
+  * [Go big or go home?](https://pwilmart.github.io/blog/2021/04/22/Parent-ion-tolerance) - Are we shooting ourselves in the foot with narrow tolerance database searching? (April 2021)
+  * [Is MaxQuant holding back proteomics?](https://pwilmart.github.io/blog/2021/05/23/MQ-are-you-okay) - Should the most heavily used proteomics data analysis tool perform better? (May 2021)
+  * [What makes the PAW pipeline different?](https://pwilmart.github.io/blog/2021/06/06/PAW-pipeline-backstory) - More of the history and design choices behind the PAW pipeline. (June 2021)
+  * [TMT bad practices](https://pwilmart.github.io/blog/2021/12/17/TMT-bad-practices) - Many established TMT data analysis methods are not really very good to use. (Dec. 2021)
 
 #### README Blogs
 
