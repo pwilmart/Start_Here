@@ -1,8 +1,8 @@
 # Start_Here
 
-## Navigation links (and brief descriptions) to my repositories.
+## Brief descriptions and links to my repositories and other content.
 
-* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository. Updated March 27, 2023.
+* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository. Updated March 30, 2023.
 
 ## Table of Contents:
 
