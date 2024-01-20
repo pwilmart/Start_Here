@@ -4,6 +4,21 @@
 
 * [Start_Here](https://github.com/pwilmart/Start_Here) - This repository. Updated March 30, 2023.
 
+## Latest Content:
+
+- [mouse_lens_development_Khan2018_reanalysis](https://github.com/pwilmart/mouse_lens_development_Khan2018_reanalysis) - A thorough and detailed re-analysis of a TMT-labeled bottom-up quantitative proteomcis study. The experiment is tracking the developing mouse lens proteome at two embryonic ages (E15 and E18, in days) and postnatal ages (P0, P3, P6, and P9). The salient points are:
+  - doing quantitative proteomics without using ratios
+  - combining multi-plex TMT experiments
+  - understanding samples with a few highly abundant proteins
+  - understanding how data normalization and statistical testing results are coupled
+  - preparing results in ways that facilitate data exploration and discovery
+
+- [PXD030990_human-tear_re-analysis](https://github.com/pwilmart/PXD030990_human-tear_re-analysis) - A re-analysis of human tear samples characterized in a single-shot experimental design. Tear has a few highly abundant proteins that makes deep proteome profiling without fractionation impossible. Single-shot experimental designs have gained popularity but they are much more limiting than seems to be realized. Proteomic depth is a case of getting out what you put in. A single LC run won't get you much. Short gradient single LC runs will get you even less.
+
+- [Human_rhesus_TMT](https://github.com/pwilmart/Human_rhesus_TMT) - Analysis discussion of a multi-sample, multi-fraction, multi-kit, multi-species TMTpro experiment. Details how to analyze a 21 rhesus samples, 24 human samples, 45 samples total, 17 channels per plex (15 plus 2 pooled standards) in 3 plexes labeled with TMTpro 18-plex reagents experiment.
+
+- [quantitative_proteomics_data_cleaning](https://github.com/pwilmart/quantitative_proteomics_data_cleaning) - A discussion of basic data cleaning concepts for quantitative proteomics data and some useful notebook quality control (QC) metrics.
+
 ## Table of Contents:
 
 * [Blogs](#Blogs)
@@ -60,6 +75,16 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
   * [TMT_channel_cross_talk](https://github.com/pwilmart/TMT_channel_cross_talk) - A deeper dive on adjacent channel cross talk for TMTpro 18-plex. How large is the effect and some pros and cons of correction. (_Dec. 2022_)
   * [Human-plasma_DIA-vs-TMT](https://github.com/pwilmart/Human-plasma_DIA-vs-TMT) - An apples-to-aardvarks comparison of human plasma proteomes from DIA versus TMT. (_Feb. 2023_)
   * [PXD011691_reanalysis](https://github.com/pwilmart/PXD011691_reanalysis) - Reanalysis of data from [PXD011691](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD011691) - another DIA versus TMT experiment. (_Feb. 2023_)
+  * [quantitative_proteomics_data_cleaning](https://github.com/pwilmart/quantitative_proteomics_data_cleaning) - A discussion of basic data cleaning concepts for quantitative proteomics data and some useful notebook quality control (QC) metrics. (_April 2023_)
+  * [Human_rhesus_TMT](https://github.com/pwilmart/Human_rhesus_TMT) - Analysis discussion of a multi-sample, multi-fraction, multi-kit, multi-species TMTpro experiment. Details how to analyze a 21 rhesus samples, 24 human samples, 45 samples total, 17 channels per plex (15 plus 2 pooled standards) in 3 plexes labeled with TMTpro 18-plex reagents experiment. (_Oct. 2023_)
+  * [PXD030990_human-tear_re-analysis](https://github.com/pwilmart/PXD030990_human-tear_re-analysis) - A re-analysis of human tear samples characterized in a single-shot experimental design. Tear has a few highly abundant proteins that makes deep proteome profiling without fractionation impossible. Single-shot experimental designs have gained popularity but they are much more limiting than seems to be realized. Proteomic depth is a case of getting out what you put in. A single LC run won't get you much. Short gradient single LC runs will get you even less. (_Nov. 2023_)
+  * [mouse_lens_development_Khan2018_reanalysis](https://github.com/pwilmart/mouse_lens_development_Khan2018_reanalysis) - A thorough and detailed re-analysis of a TMT-labeled bottom-up quantitative proteomcis study. The experiment is tracking the developing mouse lens proteome at two embryonic ages (E15 and E18, in days) and postnatal ages (P0, P3, P6, and P9). The salient points are:
+    - doing quantitative proteomics without using ratios
+    - combining multi-plex TMT experiments
+    - understanding samples with a few highly abundant proteins
+    - understanding how data normalization and statistical testing results are coupled
+    - preparing results in ways that facilitate data exploration and discovery
+  <br>(_Jan. 2024_)  
 
 ---
 
