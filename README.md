@@ -202,7 +202,7 @@ GitHub markdown (and the auto rendering of repository README.md files as nice we
 * [Sea_lion_urine_SpC](https://github.com/pwilmart/Sea_lion_urine_SpC) - Analysis of sea lion urine samples
   * [PXD009019_average_missing](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_average_missing.html) - Notebook to determine the low SpC cutoff value
   * [PXD009019_QC_check](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_QC_check.html) - Notebook with some quality control steps and outlier checking
-  * [PXD009019_SpC_DE](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_SpC_DE.html) - Notebook with the SpS differential expression analysis
+  * [PXD009019_SpC_DE](https://pwilmart.github.io/TMT_analysis_examples/PXD009019_SpC_DE.html) - Notebook with the SpC differential expression analysis
 
 * [ABRF_iPRG_2015_SpC](https://github.com/pwilmart/ABRF_iPRG_2015_SpC) - Analysis of ABRF iPRG data from 2015 study
   * [ABRF_2015_edgeR](https://pwilmart.github.io/TMT_analysis_examples/ABRF_2015_edgeR.html) - Spectral counting data analyzed with edgeR
