@@ -2,9 +2,11 @@
 
 ## Brief descriptions and links to my repositories and other content.
 
-* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository. Updated January 20, 2024.
+* [Start_Here](https://github.com/pwilmart/Start_Here) - This repository. Updated July 5, 2025.
 
 ## Latest Content:
+
+- [quantitative_proteomics_comparison](https://github.com/pwilmart/quantitative_proteomics_comparison) - A comparison between DIA, spectral counting, and TMT isobaric labeling using similar composition proteomes (animal lenses). It is a measurement science comparison so the focus is on data quality/characteristic metrics. Results are (mostly) irrelevant in evaluating these techniques. There are no comparisons of numbers of (mis)identified proteins or unique(ly uninteresting) peptides. Pissing contests should be reserved for urine proteomics.
 
 - [mouse_lens_development_Khan2018_reanalysis](https://github.com/pwilmart/mouse_lens_development_Khan2018_reanalysis) - A thorough and detailed re-analysis of a TMT-labeled bottom-up quantitative proteomcis study. The experiment is tracking the developing mouse lens proteome at two embryonic ages (E15 and E18, in days) and postnatal ages (P0, P3, P6, and P9). The salient points are:
   - doing quantitative proteomics without using ratios
